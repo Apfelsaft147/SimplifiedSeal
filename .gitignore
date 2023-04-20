@@ -1,19 +1,18 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/shelf
 .DS_Store
-
-# Images
-images/avatars/
-images/captchas/
-images/smileys/
-images/member_photos/
-images/signature_attachments/
-images/pm_attachments/
-
-# For security do not publish the following files
-system/expressionengine/config/database.php
-system/expressionengine/config/config.php
-
-# Caches
-sized/
-thumbs/
-_thumbs/
-*/expressionengine/cache/*
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/keystore.properties
